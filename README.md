@@ -129,7 +129,7 @@ python ancient_city_predictor.py --verify
 
 ## 📄 许可证
 
-[MIT License](LICENSE)
+[LGPL License](LICENSE)
 
 ## 🙏 致谢
 
